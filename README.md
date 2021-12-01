@@ -10,8 +10,9 @@ mizanurrahaman592@gmail.com
 
 Contact: 01839688665
 
-website : [link](https://codepadding.com){:target="_blank"}
+website : 
 
+[Link](https://codepadding.com/ "CodePadding.com" target="_blank")
 
 <!---
 codepadding/codepadding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
