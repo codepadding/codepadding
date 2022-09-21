@@ -6,7 +6,6 @@
 
 Email:- 
 codepadding@gmail.com (business)
-mizanurrahaman592@gmail.com
 
 Contact: 01839688665
 
