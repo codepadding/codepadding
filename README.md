@@ -1,25 +1,10 @@
-- 👋 Hi, I’m @codepadding
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-Email:- 
-codepadding@gmail.com (business)
-
-Contact: 01839688665
-
-website : https:codepadding.com
-
-<!---
-codepadding/codepadding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 
 <div align="center">
-  <h1 align="center">Mikyll</h1>
+  <h1 align="center">Md Mizanur Rahaman</h1>
+  <p>codepadding@gmail.com 01839688665</p>
 
 [![coffee][coffee-shield]][coffee-url]
 [![javascript][javascript-shield]][javascript-url]
@@ -44,23 +29,23 @@ You can click the Preview link to take a look at your changes.
 
 ## Ciao! 👋 Clicca [qui](https://github.com/mikyll/mikyll/blob/main/README.it.md) per la versione in Italiano
 
-### I'm Michele Righi, a MSc student at Alma Mater Studiorum - Bologna University. I love coding, making apps and videogames, and my dream is to have a job experience at Google.
-- 💻 Lead programming languages: Java, C, Go, Python, Bash, JavaScript
-- 🔭 I’m currently working on my first videogame (made with SDL2)
-- 🌱 I’m currently learning Flutter, SDL2, C++, Unity, GBA programming
-- 👯 ~~I’m looking to collaborate on [ROQuiz](https://github.com/mikyll/ROQuiz)~~
-- 🤔 I’m looking for help with solving the main issues of [Unity DOTS Prototype](https://github.com/mikyll/UnityDOTS-Thesis/tree/main/DOTS%20Prototype)
-- 📫 How to reach me: [![linkedin][linkedin-shield]][linkedin-url]
+### I'm MD. Mizanur Rahaman. I love coding, making apps and videogames.
+- 💻 Lead programming languages: JavaScript
+- 🔭 I’m currently working on Forex Market auto-trading bot (made with MQ4)
+- 🌱 I’m currently working Flutter, MQ4, JavaScript, Nodejs, React.js, NextJs,TypeScript  programming
+- 👯 ~~I’m looking to collaborate~~
+- 🤔 I’m looking for help with solving the main issues
+- 📫 How to reach me: [![linkedin][linkedin-shield]][https://www.linkedin.com/in/md-mizanur-rahaman-665246173/]
 
 -------
 
 <details open="">
   <summary><b>📈 GitHub Stats</b></summary>
   <p align="center">
-    <a href="https://github.com/mikyll/mikyll"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mikyll&theme=light"/></a>
-    <a href="https://github.com/mikyll/mikyll"><img alt="Mikyll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mikyll&show_icons=true" width=55%/></a>
-    <a href="https://github.com/mikyll/mikyll"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikyll&layout=compact&langs_count=8" width=40%/></a>
-    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
+    <a href="https://github.com/codepadding/codepadding"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mikyll&theme=light"/></a>
+    <a href="https://github.com/codepadding/codepadding"><img alt="Code Padding GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codepadding&show_icons=true" width=55%/></a>
+    <a href="https://github.com/codepadding/codepadding"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepadding&layout=compact&langs_count=8" width=40%/></a>
+    <a href="https://github.com/codepadding/codepadding"><img alt="Snake animation" src="https://github.com/codepadding/codepadding/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
 </details>
 
