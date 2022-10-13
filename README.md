@@ -32,17 +32,10 @@
   - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codepadding@gmail.com)
 - ⚡ Fun fact: I love to play games and make apps and websites. I love to code.
 
-
-
-
-
-
 ---
 
-
-
-
-<h2 align="center">Profile Stats</h2>
+<details open="">
+  <summary><b>📈 GitHub Stats</b></summary>
 <table>
     <tr>
         <td>
@@ -73,13 +66,13 @@
         </td>
     </tr>
 </table>
+
+</details>
    <p align="center">
-   <a href="https://github.com/codepadding/codepadding"><img alt="Snake animation" src="https://github.com/codepadding/codepadding/blob/output/animation.svg"/></a>
-
-
-   
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/codepadding/codepadding/main/animation.svg"/>
   </p>
 
+<a href="https://github.com/codepadding/codepadding"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=codepadding&theme=light"/></a>
 
 <details open="">
   <summary><b>📈 GitHub Stats</b></summary>
@@ -87,11 +80,9 @@
     <a href="https://github.com/codepadding/codepadding"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=codepadding&theme=light"/></a>
     <a href="https://github.com/codepadding/codepadding"><img alt="Code Padding GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codepadding&show_icons=true" width=55%/></a>
     <a href="https://github.com/codepadding/codepadding"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepadding&layout=compact&langs_count=8" width=40%/></a>
-    <a href="https://github.com/codepadding/codepadding"><img alt="Snake animation" src="https://github.com/codepadding/codepadding/blob/output/github-contribution-grid-snake.svg"/></a>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/codepadding/codepadding/main/animation.svg"/>
   </p>
 </details>
-
-
 
 <details>
   <summary><b>🧐 More about me</b></summary>
@@ -224,5 +215,5 @@
 [coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat-square&logo=buy-me-a-coffee&logoColor=black
 [coffee-url]: https://www.buymeacoffee.com/mikyll
 
-<!-- https://paypal.me/mikyll98 -->
+<!-- https://paypal.me/codepadding -->
 <!-- more badges: https://badgen.net/ and https://github.com/Ileriayo/markdown-badges#office -->
