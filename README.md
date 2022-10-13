@@ -2,18 +2,6 @@
   <h1 align="center">Md Mizanur Rahaman</h1>
   <p>codepadding@gmail.com 01839688665</p>
 
-[![coffee][coffee-shield]][coffee-url]
-[![javascript][javascript-shield]][javascript-url]
-[![linux][linux-shield]][linux-url]
-[![java][java-shield]][java-url]
-[![html][html-shield]][html-url]
-[![visual-studio][vs-shield]][vs-url]
-[![flutter][flutter-shield]][flutter-url]
-[![python][python-shield]][python-url]
-[![windows][windows-shield]][windows-url]
-[![android][android-shield]][android-url]
-[![c][c-shield]][c-url]
-[![markdown][md-shield]][md-url]
 
 </div>
 
