@@ -11,19 +11,14 @@
 [![linux][linux-shield]][linux-url]
 [![java][java-shield]][java-url]
 [![html][html-shield]][html-url]
-[![raspberry-pi][raspberry-shield]][raspberry-url]
 [![visual-studio][vs-shield]][vs-url]
 [![flutter][flutter-shield]][flutter-url]
-[![c][c-shield]][c-url]
+[![typescript][typescript-shield]][typescript-url]
 [![python][python-shield]][python-url]
 [![windows][windows-shield]][windows-url]
-[![go][go-shield]][go-url]
 [![android][android-shield]][android-url]
 [![latex][latex-shield]][latex-url]
-[![c#][c#-shield]][c#-url]
 [![markdown][md-shield]][md-url]
-[![bash][bash-shield]][bash-url]
-[![unity][unity-shield]][unity-url]
 
 </div>
 
@@ -35,7 +30,7 @@
 - 🌱 I’m currently working Flutter, MQ4, JavaScript, Nodejs, React.js, NextJs,TypeScript  programming
 - 👯 ~~I’m looking to collaborate~~
 - 🤔 I’m looking for help with solving the main issues
-- 📫 How to reach me: [![linkedin][linkedin-shield]][https://www.linkedin.com/in/md-mizanur-rahaman-665246173/]
+- 📫 How to reach me: [![linkedin][linkedin-shield]]['https://www.linkedin.com/in/md-mizanur-rahaman-665246173/']
 
 -------
 
