@@ -68,7 +68,7 @@
 </table>
 
 </details>
-   <p align="center">
+   <div align="center">
     <img alt="Snake animation" src="https://raw.githubusercontent.com/codepadding/codepadding/main/animation.svg"/>
-  </p>
+  </div>
 
